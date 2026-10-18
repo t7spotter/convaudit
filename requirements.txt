@@ -1,0 +1,15 @@
+# Versions the pilot was tested with (Python 3.13, Linux). Pinned so results are reproducible.
+# Tools under test
+ultralytics==8.4.177
+supervision==0.30.9
+datumaro==1.13.11
+fiftyone==1.22.1
+# Reference and analysis
+pycocotools==2.0.11
+numpy==2.4.6
+scipy==1.18.1
+pandas==2.3.3
+PyYAML==6.0.3
+tabulate==0.10.0
+pytest==9.1.1
+# OpenCV comes in through ultralytics (opencv-python).

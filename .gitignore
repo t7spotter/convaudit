@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.pt
+val2017/
+train2017/
+annotations/
+*.zip
+*.tgz
+*.tar
+results*/
+stage1*/
+stage2_data/
+stage2_runs/
+stage2_report/
+figures/

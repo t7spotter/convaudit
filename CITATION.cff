@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "convaudit: an audit harness for annotation format converters"
+authors:
+  - family-names: Firouzi
+    given-names: Mohamadali
+    orcid: "https://orcid.org/0009-0006-9682-5753"
+license: MIT
+repository-code: "https://github.com/t7spotter/convaudit"
+version: "1.0.0"
