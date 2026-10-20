@@ -4,6 +4,8 @@ Replication package for the paper *Lost in Conversion: Silent Label Changes in A
 Converters and Their Effect on Object Detection and Instance Segmentation Results* (Mohamadali
 Firouzi, 2026; submitted).
 
+Archived with the derived data on Zenodo: https://doi.org/10.5281/zenodo.23494584 (release v1.0.0).
+
 The harness converts a COCO instance-annotation file with each tool (Ultralytics, Roboflow
 supervision, Datumaro, FiftyOne), reads the output back with its **own** parsers (never the
 tools' readers), matches every written object to its original, and counts what changed (audit,
